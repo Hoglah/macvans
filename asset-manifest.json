@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/macvansnest/static/css/main.17c06710.css",
+    "main.js": "/macvansnest/static/js/main.3fb5a7fe.js",
+    "static/js/453.ef00d8f1.chunk.js": "/macvansnest/static/js/453.ef00d8f1.chunk.js",
+    "static/media/project3.jpg": "/macvansnest/static/media/project3.77950e956d56692b2b26.jpg",
+    "static/media/project4.jpg": "/macvansnest/static/media/project4.2dad11f1ec21b2455756.jpg",
+    "static/media/hero.png": "/macvansnest/static/media/hero.5fb7212170870432b5b4.png",
+    "static/media/project2.jpg": "/macvansnest/static/media/project2.be7d5d4e8eab5c481cf6.jpg",
+    "static/media/project1.jpg": "/macvansnest/static/media/project1.3bc917d266a58051d811.jpg",
+    "static/media/about.jpg": "/macvansnest/static/media/about.bdd955cb28a57715ae9a.jpg",
+    "static/media/hero_bg.jpg": "/macvansnest/static/media/hero_bg.482a771078b0ad5b83df.jpg",
+    "index.html": "/macvansnest/index.html",
+    "main.17c06710.css.map": "/macvansnest/static/css/main.17c06710.css.map",
+    "main.3fb5a7fe.js.map": "/macvansnest/static/js/main.3fb5a7fe.js.map",
+    "453.ef00d8f1.chunk.js.map": "/macvansnest/static/js/453.ef00d8f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.17c06710.css",
+    "static/js/main.3fb5a7fe.js"
+  ]
+}
