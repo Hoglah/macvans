@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/macvans/static/css/main.89d570a1.css",
-    "main.js": "/macvans/static/js/main.0b3a02a6.js",
+    "main.css": "/macvans/static/css/main.88250589.css",
+    "main.js": "/macvans/static/js/main.dae13d67.js",
     "static/js/453.ef00d8f1.chunk.js": "/macvans/static/js/453.ef00d8f1.chunk.js",
     "static/media/project3.jpg": "/macvans/static/media/project3.77950e956d56692b2b26.jpg",
     "static/media/project4.jpg": "/macvans/static/media/project4.2dad11f1ec21b2455756.jpg",
@@ -11,12 +11,12 @@
     "static/media/about.jpg": "/macvans/static/media/about.bdd955cb28a57715ae9a.jpg",
     "static/media/hero_bg.jpg": "/macvans/static/media/hero_bg.482a771078b0ad5b83df.jpg",
     "index.html": "/macvans/index.html",
-    "main.89d570a1.css.map": "/macvans/static/css/main.89d570a1.css.map",
-    "main.0b3a02a6.js.map": "/macvans/static/js/main.0b3a02a6.js.map",
+    "main.88250589.css.map": "/macvans/static/css/main.88250589.css.map",
+    "main.dae13d67.js.map": "/macvans/static/js/main.dae13d67.js.map",
     "453.ef00d8f1.chunk.js.map": "/macvans/static/js/453.ef00d8f1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89d570a1.css",
-    "static/js/main.0b3a02a6.js"
+    "static/css/main.88250589.css",
+    "static/js/main.dae13d67.js"
   ]
 }
